@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Teamwork: Tatap Muka 3" />
+  <HelloWorld msg="Teamwork: Tatap Muka 4 branch B" />
 </template>
 
 <style scoped>
